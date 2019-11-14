@@ -1,0 +1,9 @@
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\bin\Release\DesktopApp2.exe.config
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\bin\Release\DesktopApp2.exe
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\bin\Release\DesktopApp2.pdb
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.Form1.resources
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.Properties.Resources.resources
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.csproj.GenerateResource.cache
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.csproj.CoreCompileInputs.cache
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.exe
+C:\Users\Dan Pham\source\repos\DesktopApp2\DesktopApp2\obj\Release\DesktopApp2.pdb
